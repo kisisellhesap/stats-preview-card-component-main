@@ -46,7 +46,7 @@ min-width: 320px;
 }
 
 
-#card-container {
+main {
 width: 70%;
 display: flex;
 background-color: $Dark-desaturated-blue;
@@ -144,7 +144,7 @@ border-bottom-right-radius: 6px;
 
 
 @media screen and (max-width:1180px) {
-#card-container {
+main {
 width: 95%;
 
 // display: flex;
@@ -164,7 +164,7 @@ font-size: 13px;
 }
 
 
-#card-container {
+main {
 width: 310px;
 height: 97%;
 flex-direction: column;
